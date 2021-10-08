@@ -16,6 +16,10 @@ footer {
     height: 100%;
 }
 
+.row-content {
+    padding: 15px;
+}
+
 .left-icon {
     position: fixed;
     left: 37px;
